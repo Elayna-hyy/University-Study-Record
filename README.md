@@ -1,7 +1,7 @@
 # University-Study-Record
 My journey of University-Study
 
-# 电气工程及其自动化学年学习进度与规划
+# 电气大一 第一个月总结
 
 > 本文档旨在记录和规划我作为电气工程专业大一新生的学习轨迹，涵盖正式课程与课外拓展，以便于复盘和调整。
 
